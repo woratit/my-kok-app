@@ -6,7 +6,6 @@ Xamarin Trdaining
 1. A
 2. B
 3. C
-4. 
 
 
 ## สร้างโดย
